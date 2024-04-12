@@ -16,10 +16,7 @@ const Poster = () => {
                     <img className='mx-auto' src={StudentImage} alt="" />
                 </div>
             </Grid>
-            <Grid xs={6}>
-            </Grid>
-            <Grid xs={6}>
-            </Grid>
+            
         </Grid>
     );
 }

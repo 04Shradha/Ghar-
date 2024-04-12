@@ -20,9 +20,9 @@ const Testimonial = () => {
                 <div class="max-w-sm mx-3 p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
                     <img className='h-40' src={manImage} alt="" />
                     <a href="#">
-                        <h5 class="mb-2 pb-20 pt-5 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">Need a help in Claim?</h5>
+                        <h5 class="mb-2 pb-20 pt-5 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">Shraddha</h5>
                     </a>
-                    <p class="mb-3 font-normal text-gray-500 dark:text-gray-400">Go to this step by step guideline process on how to certify for your weekly benefits:</p>
+                    <p class="mb-3 font-normal text-gray-500 dark:text-gray-400">"Fantastic platform! Found my perfect room, delicious tiffin service, and great housemates all in one place."</p>
 
 
                     <div class="flex items-center">
@@ -51,9 +51,9 @@ const Testimonial = () => {
                 <div class="max-w-sm mx-3 p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
                     <img className='h-40' src={man2Image} alt="" />
                     <a href="#">
-                    <h5 class="mb-2 pb-20 pt-5 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">Need a help in Claim?</h5>
+                    <h5 class="mb-2 pb-20 pt-5 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">Akash Mahato</h5>
                     </a>
-                    <p class="mb-3 font-normal text-gray-500 dark:text-gray-400">Go to this step by step guideline process on how to certify for your weekly benefits:</p>
+                    <p class="mb-3 font-normal text-gray-500 dark:text-gray-400">"Incredible convenience! Secured a cozy PG, scrumptious meals, and hassle-free roommates effortlessly."</p>
 
 
                     <div class="flex items-center">
@@ -82,9 +82,10 @@ const Testimonial = () => {
                 <div class="max-w-sm mx-3 p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
                     <img className='h-40' src={womanImage} alt="" />
                     <a href="#">
-                    <h5 class="mb-2 pb-20 pt-5 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">Need a help in Claim?</h5>
+                    <h5 class="mb-2 pb-20 pt-5 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">Harshal Choudhary</h5>
                     </a>
-                    <p class="mb-3 font-normal text-gray-500 dark:text-gray-400">Go to this step by step guideline process on how to certify for your weekly benefits:</p>
+                    <p class="mb-3 font-normal text-gray-500 dark:text-gray-400">"Life-saver for students! Seamless search for accommodation, delightful food options, and exceptional service."
+</p>
 
 
                     <div class="flex items-center">
@@ -113,9 +114,9 @@ const Testimonial = () => {
                 <div class="max-w-sm mx-3 p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
                     <img className='h-40' src={man3Image} />
                     <a href="#">
-                    <h5 class="mb-2 pb-20 pt-5 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">Need a help in Claim?</h5>
+                    <h5 class="mb-2 pb-20 pt-5 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">Prasaana</h5>
                     </a>
-                    <p class="mb-3 font-normal text-gray-500 dark:text-gray-400">Go to this step by step guideline process on how to certify for your weekly benefits:</p>
+                    <p class="mb-3 font-normal text-gray-500 dark:text-gray-400">"Game-changer for student living! Streamlined process for finding rooms, tasty meal services, and a vibrant community vibe."</p>
 
 
                     <div class="flex items-center">

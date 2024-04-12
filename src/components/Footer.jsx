@@ -17,7 +17,7 @@ function Footer() {
             </div>
             <div className="footer-col-2 flex-1 text-center mb-8">
                 <img src="pics/fbxc.jpeg" className="w-48 mx-auto mb-4" alt="Footer Logo" />
-                <p className="text-sm">Our purpose is to sustainably make the pleasure and benefits of sports accessible to many.</p>
+                <p className="text-sm">Empowering students with seamless access to accommodation, meal services, and community connections for a thriving campus life.</p>
             </div>
             <div className="footer-col-3 flex-1 min-w-min mb-8">
                 <h3 className="text-lg font-bold mb-4">Useful links</h3>

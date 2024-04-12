@@ -6,6 +6,8 @@ import CardMedia from '@mui/material/CardMedia';
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 import r1Image from '../assets/r1.webp'; // Import the image
+import r2Image from '../assets/r2.webp';
+import r3Image from '../assets/r3.webp';
 
 const cardData = [
   {
@@ -17,13 +19,13 @@ const cardData = [
   {
     id: 2,
     title: 'Room 2',
-    image: '/static/images/cards/contemplative-reptile.jpg',
+    image: r2Image,
     Type: '2 BHK',
   },
   {
     id: 3,
     title: 'Room 3',
-    image: '/static/images/cards/contemplative-reptile.jpg',
+    image: r3Image,
     Type: '1 BHK',
   },
 ];
@@ -33,7 +35,7 @@ export default function MediaCard() {
     <>
         <h1 className='text-5xl mt-10 font-bold text-center text-black'>Featured Rooms</h1>
         <div className='mx-auto border-4 m-4 w-60 border-pink-200'></div>
-    <div className="flex justify-between px-10 my-10">
+    <div className="flex justify-between p-10 my-10 bg-slate-300">
       {cardData.map((card) => (
         <div key={card.id} className="flex-1 mx-2">
           <Card>

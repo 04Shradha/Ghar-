@@ -1,4 +1,3 @@
-
 import Navbar from './components/Navbar';
 import Carsoule from './components/Carsoule';
 import Poster from './components/poster';

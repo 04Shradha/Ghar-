@@ -20,7 +20,7 @@ const images = [
       imgPath: CarImage1,
       content: (
         <div className="bg-slate-900 bg-opacity-50 px-20 py-10 flex flex-col items-center justify-center" style={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)', zIndex: 999 }}>
-          <h1 className='text-white font-bold mb-3 text-7xl text-center'>Luxurious Rooms</h1>
+          <h1 className='text-white font-bold mb-3 text-7xl text-center'>Rental Rooms</h1>
           <div className='border-4 m-4 w-60 border-pink-200 inline-block'></div>
           <h1 className='font-bold text-white m-3 text-5xl text-center'>Deluxe Rooms Starting At 600 Pln</h1>
           <button className='bg-pink-200 rounded-lg font-bold text-black text-xl p-3 m-3'>Our Rooms</button>
@@ -31,7 +31,7 @@ const images = [
       imgPath: CarImage2,
       content: (
         <div className="bg-slate-900 bg-opacity-50 px-20 py-10 flex flex-col items-center justify-center" style={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)', zIndex: 999 }}>
-          <h1 className='text-white font-bold mb-3 text-7xl text-center'>Luxurious PG's</h1>
+          <h1 className='text-white font-bold mb-3 text-7xl text-center'>Paying Guest</h1>
           <div className='border-4 m-4 w-60 border-pink-200 inline-block'></div>
           <h1 className='font-bold text-white m-3 text-5xl text-center'>Deluxe Rooms Starting At 600 Pln</h1>
           <button className='bg-pink-200 rounded-lg font-bold text-black text-xl p-3 m-3'>Our Rooms</button>
